@@ -1,4 +1,4 @@
 .PHONY: all
 all:
 	mkdir -p out
-	cp index.html out
+	cp index.html turkish_coffee.jpg out/
